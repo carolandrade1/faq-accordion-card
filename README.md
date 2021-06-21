@@ -6,7 +6,7 @@ This is a solution to the [FAQ accordion card challenge on Frontend Mentor](http
 
   - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Video](#video)
   - [Links](#links)
   - [My process](#my-process)
   - [Built with](#built-with)
@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Video
 
-
+https://user-images.githubusercontent.com/65976843/122758786-9486d800-d26f-11eb-9f16-6e700fb03bf6.mp4
 
 ### Links
 
