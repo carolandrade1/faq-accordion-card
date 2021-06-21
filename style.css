@@ -40,6 +40,7 @@ h1 {
     max-width: 57.5rem;
     min-height: 31.9875rem;
     margin: 0 auto;
+    box-shadow: -5px 20px 25px rgba(0, 0, 0, 0.4);
 }
 
 .card__image {
@@ -101,6 +102,11 @@ h1 {
 .accordion__question:focus, .accordion__question:focus-visible{
     border: none;
     outline: dashed 1px rgba(0, 0, 0, 0.20);
+}
+
+.accordion__question:hover {
+    color: var(--text-red);
+    cursor: pointer;
 }
 
 .accordion__content {
